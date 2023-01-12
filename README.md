@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg">
+<img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg" align="center">
 
 <br>
 
